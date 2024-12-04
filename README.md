@@ -121,3 +121,16 @@ Copy code
 }
 License
 This project is licensed under the MIT License.
+
+## Hidden Gems
+As a tribute to the decentralized community, here’s a curated list of wallet addresses that play a unique role in the lore of $POM. Can you uncover their secrets?
+
+```plaintext
+BeTvN1ucBnCj4Ef688i51KHn2oq35CWDvD2J5aLFp17t: ?
+7DCYBoCuLWwYaQHhXxv6F6SV5ZAmnuhR1oucNYgVZWLa: Blob1
+BieeZkdnBAgNYknzo3RH2vku7FcPkFZMZmRJANh2TpW: ?
+45yBcpnzFTqLYQJtjxsa1DdZkgrTYponCg6yLQ6LQPu6: Maestro
+72e6QM7gn9MH5u1YpgQbduexm4WAon1cnsSXPqKnLQec: ?
+...
+(Include as many as you like)
+...
